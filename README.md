@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently student  **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m student  **[INSTITUTE TEKNOLOGI DAN BISNIS DARMAJYA](https://www.darmajaya.ac.id/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
