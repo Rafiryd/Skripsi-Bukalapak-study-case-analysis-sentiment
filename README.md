@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on ** STILL LOOKING **
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://rafiryd.github.io/)**
 
 - 📫 How to reach me **raffirasyid.rr@gmail.com**
 
