@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZmPcIbAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzone.com/storage/temp/12334613-971.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZmPcIbAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzone.com/storage/temp/12334613-971.jpg" width="30px">, I'm rafi</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from indonesia.</h3>
+<h3 align="center">I'm data scientist visual and ML from indonesia.</h3>
 
 
 ## 🙋‍♂️ About Me
