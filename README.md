@@ -7,7 +7,7 @@ Link Dataset:
 https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset.
 
 ## Screenshots
-![DEMO](images/demo1.png)
+![DEMO](images/Screenshot 2023-09-08 140728.png)
 
 ## Installation
 
